@@ -1,5 +1,4 @@
-# GramaticaAleatoria
-Gerador Gramatica Aleatoria
+# Gerador Gramatica Aleatoria
 
 Trabalho de linguagens formais
 

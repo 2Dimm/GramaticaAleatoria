@@ -1,4 +1,4 @@
-# Gerador Gramatica Aleatoria
+# Gerador Sentença Aleatoria
 
 Trabalho de linguagens formais
 

@@ -1,0 +1,10 @@
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\bin\Debug\Gramatica.exe.config
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\bin\Debug\Gramatica.exe
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\bin\Debug\Gramatica.pdb
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\obj\Debug\Gramatica.csprojAssemblyReference.cache
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\obj\Debug\Gramatica.Form1.resources
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\obj\Debug\Gramatica.Properties.Resources.resources
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\obj\Debug\Gramatica.csproj.GenerateResource.cache
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\obj\Debug\Gramatica.csproj.CoreCompileInputs.cache
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\obj\Debug\Gramatica.exe
+C:\Users\Dimitry\Documents\Projetos\Gramatica\Gramatica\obj\Debug\Gramatica.pdb

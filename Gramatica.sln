@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gramatica", "Gramatica\Gramatica.csproj", "{6A022581-D6FD-4ED4-B25F-805DDD89CB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A022581-D6FD-4ED4-B25F-805DDD89CB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A022581-D6FD-4ED4-B25F-805DDD89CB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A022581-D6FD-4ED4-B25F-805DDD89CB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A022581-D6FD-4ED4-B25F-805DDD89CB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AFFF226-049E-4146-BBB4-D91E1DAED61B}
+	EndGlobalSection
+EndGlobal
